@@ -7,4 +7,4 @@ I'm Khashayar.
 </div>
 <br>
 
-![Cool image of github activity](./assets/cool-activity.png)
+<img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/cool-activity.png" style="width:100%;">
