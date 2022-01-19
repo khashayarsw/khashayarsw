@@ -2,7 +2,6 @@
 <p align='center'>
 I'm Khashayar.
 </p>
-<br>
 - 📚 I am currently reading <a href="https://www.patterns.dev/book/">Learn Patterns</a>
 <br>
 <div align='center'>
