@@ -2,7 +2,9 @@
 <p align='center'>
 I'm Khashayar.
 </p>
+<br>
 - 📚 I am currently reading <a href="https://www.patterns.dev/book/">Learn Patterns</a>
+<br>
 <div align='center'>
 <a href="https://linkedin.com/in/khashayar-mahdavi-nezhad-770b7b180">LinkedIn</a> . <a href="mailto:khashayarmahg@gmail.com">Email</a>
 <br>
