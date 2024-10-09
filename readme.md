@@ -15,7 +15,7 @@ I'm Khashayar.
 </div>
 <br>
 <img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/gif1.gif" style="width:150px;height:150px;display:inline-block;">
-<img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/gif2.gif" style="width:150px;height:150px;display:inline-block
+<img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/gif2.gif" style="width:150px;height:150px;display:inline-block;">
 
 
 
