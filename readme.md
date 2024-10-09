@@ -14,7 +14,7 @@ I'm Khashayar.
 <img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/cool-activity.png" style="width:100%;">
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/gif1.gif" style="width:50px;height:50px;">
+<img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/gif1.gif" style="width:150px;height:150px;">
 
 
 
