@@ -13,7 +13,7 @@ I'm Khashayar.
 <br>
 <img src="https://raw.githubusercontent.com/khashayarsw/khashayarsw/master/assets/cool-activity.png" style="width:100%;">
 </div>
-![Alt Text](https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif?cid=790b7611lsslgoq21bpsqy7wuv67pwzvpo32zdln7syz31ks&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Alt Text](https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif)
 
 
 
