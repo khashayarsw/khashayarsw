@@ -2,8 +2,6 @@
 <p align='center'>
 I'm Khashayar.
 </p>
-- 📚 I am currently reading <a href="https://largeapps.dev">large scale web apps</a>
-<br>
 <br>
 <br>
 <br>
